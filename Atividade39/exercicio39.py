@@ -1,7 +1,4 @@
-# Exercício 38: Crie uma lista com 5 nomes e remova o último nome.
+# Exercício 39: Ordene uma lista de números.
 
-nomes = ['João', 'Maria', 'Pedro', 'Ana', 'Carlos']
-
-nomes.pop()
-
-print(nomes)
+for x in range(1, 11):
+  print(x)
