@@ -1,4 +1,4 @@
-# Exercício 40: Crie uma lista com 5 números e exiba apenas os pares.
+# Exercício 40: Crie uma lista com 5 números e exiba apenas os pares. Atualizado
 
 num = [1, 2, 3, 4, 5]
 
